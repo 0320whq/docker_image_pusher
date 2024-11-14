@@ -1,2 +1,2 @@
-hectorqin/reader:openj9-latest
 homeassistant/home-assistant
+hectorqin/reader:openj9-latest
