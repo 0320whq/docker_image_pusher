@@ -1,3 +1,4 @@
 homeassistant/home-assistant
 hectorqin/reader:openj9-latest
 jlesage/firefox
+docker pull linuxserver/qbittorrent
