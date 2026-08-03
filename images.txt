@@ -2,3 +2,4 @@ homeassistant/home-assistant
 jlesage/firefox
 linuxserver/qbittorrent:5.0.3
 guohuiyuan/go-novel-dl:latest
+artielabs/reader:v0.1.499-finclear-2
